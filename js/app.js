@@ -70,7 +70,7 @@ console log the object*/
                   aoi       => 'blue'
                   midori    => 'green'
                   shiroi    => 'white'
-                  pinku     => 'pinku'
+                  pinku     => 'pink'
                   murasaki  => 'purple'
 
    isJapanese => true              
