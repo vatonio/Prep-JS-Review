@@ -123,16 +123,4 @@ This function checks the value stored at the drinkinAlready variable in the prev
 
 /*23.  Declare a function named firstReverse which takes a single parameter str.  This function will take a string parameter being passed in and return the string in reverse order.*/
 
-/*24.  Using DOM, create the follow HTML layout:
 
-<div id="dessert">
-  <span id="cakes">
-     <p>chocolate</p>
-  </span>   
-</div>
-<div id="drinks">
-  <span id="juice">
-    <p>kool-aid</p>
-  </span>
-</div>    
-*/
