@@ -108,7 +108,7 @@ Invoke this function by passing in the string values of "Slim", "Shady". and con
 
 i.e. "The locaton at 0 is Tokyo."*/
 
-/*19. Declare a variable named "oddNumbers".
+/*19. Declare a variable named "oddNumbers" and assign it to an empty array
 Use a for loop to add only odd numbers to an Array.  Add 30 odd numbers to the oddNumbers variable starting with the value of 1.*/
 
 /*20.  Declare a function named "oldEnough".
